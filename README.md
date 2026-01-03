@@ -16,5 +16,5 @@
 - Responsive UI
 
 ## Live Demo
-Frontend: <your-vercel-url>  
+Frontend: https://task-manager-frontend-c8cy.vercel.app/ 
 Backend: https://task-manager-backend-d3rs.onrender.com
